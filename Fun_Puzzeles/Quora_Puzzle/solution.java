@@ -5,6 +5,7 @@ email-id - sjoseph631@gmail.com */
 import java.io.*;
 import java.util.*;
 public class solution
+
 {
   static int number_of_topics; // Holds the first input from user
   static Node[] array_of_nodes; // Array that holds the each topic as an object of class NODE
